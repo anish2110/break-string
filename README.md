@@ -16,17 +16,17 @@ On the first line, print an integer, , denoting the number of tokens in string  
 He is a very very good boy, isn't he?
 
 ## Sample Output
-10
-He
-is
-a
-very
-very
-good
-boy
-isn
-t
-he
+10<br>
+He<br>
+is<br>
+a<br>
+very<br>
+very<br>
+good<br>
+boy<br>
+isn<br>
+t<br>
+he<br>
 
 ## Explanation
 We consider a token to be a contiguous segment of alphabetic characters. There are a total of  such tokens in string , and each token is printed in the same order in which it appears in string .
